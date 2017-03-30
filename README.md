@@ -10,6 +10,6 @@
 
 ```
 {
-  "extends": "equimper"
+  "extends": "bkdev"
 }
 ```
