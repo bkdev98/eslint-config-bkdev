@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-bkdev",
+  "version": "1.0.0",
+  "description": "Eslint config with less rule for react & react-native working with es7. Base of Airbnb",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/bkdev98/eslint-config-bkdev"
+  },
+  "bugs": {
+    "url": "https://github.com/bkdev98/eslint-config-bkdev/issues"
+  },
+  "author": "Quoc Khanh <bkdev98@gmail.com> <https://github.com/bkdev98>",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslint-es6",
+    "eslint-es7",
+    "eslint-react",
+    "eslint-airbnb",
+    "eslint-decorator",
+    "react-native eslint",
+    "react eslint"
+  ],
+  "dependencies": {
+    "babel-eslint": "^7.2.1",
+    "eslint": "^3.18.0",
+    "eslint-plugin-class-property": "^1.0.3",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
